@@ -239,7 +239,7 @@ disqus:
 # https://imsun.net/posts/gitment-introduction/
 gitment:
     owner: sharingjoin
-    repo: shengtao
+    repo: blog-comments
     oauth:
         client_id: 167a2df33863c0f75105
         client_secret: 55c48abaf18eacfa2fe2f715fc9e315247396ece
